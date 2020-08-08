@@ -1,4 +1,4 @@
-# snake-game
+# snake-game using python coding
 
 import turtle
 import time
